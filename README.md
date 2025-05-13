@@ -44,7 +44,7 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
-HALF SUBTRACTOR 
+FULL ADDER 
 
 ![image](https://github.com/user-attachments/assets/026a22d1-a0b6-43e2-bbf2-861ff7719d05)
 
@@ -66,7 +66,9 @@ For different input combinations generate the timing diagram
 
 **Program:**
 
-**HALF SUBTRACTOR**
+
+**FULL ADDER**
+
 ~~~
 
 module fa(a,b,cin,sum,carry);
@@ -89,7 +91,7 @@ endmodule
 ~~~
 **RTL Schematic**
 
-HALF SUBTRACTOR 
+FULL ADDER 
 
 
 ![image](https://github.com/user-attachments/assets/ba25d6cd-eec3-4584-8455-fc2c04691c6e)
@@ -101,7 +103,7 @@ FULL SUBTRACTOR
 **Output Timing Waveform**
 
 
-HALF SUBTRACTOR 
+FULL ADDER 
 
 ![image](https://github.com/user-attachments/assets/80e27046-b5da-448b-87ad-185ce7d55517)
 
